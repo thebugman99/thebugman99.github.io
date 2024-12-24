@@ -1,0 +1,16 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: 
+  link: /blog.html
+- name: 
+  link: /staff.html
+- name: CV
+  link: /cv.pdf
+- name: Presentations
+  link: /presentations.html
+- name: Contact Me
+  link: /contact.html
+- name: Feedback
+  link: https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_7P4chYoPro6MWd8
